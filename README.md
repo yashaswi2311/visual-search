@@ -1,15 +1,5 @@
 # INFO7374-Algorithmic-Digital-Marketing
 
-Team 4: - 
-
-1. Samarth Hadawale (NUID: - 001053811)
-2. Sumedh Telang    (NUID: - 001059338)
-
-Google Docs Link: - https://docs.google.com/document/d/10okXVTaGggcXejwCrpnts3Xzpfb7Gs1uEKDnE4oGh2s/edit#
-
-CLaaT Link: - https://codelabs-preview.appspot.com/?file_id=10okXVTaGggcXejwCrpnts3Xzpfb7Gs1uEKDnE4oGh2s#0
-
-
 Folder Information: -
 
 Method 1: - Contains the .ipynb file of 1st method in the assignment and the csv generated using that method.
