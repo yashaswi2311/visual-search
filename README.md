@@ -2,22 +2,22 @@
 
 Folder Information: -
 
-## Method 1 : 
+#### Method 1 : 
 Contains the .ipynb file of 1st method in the assignment and the csv generated using that method.
 
-## Method 2(FAISS Method): 
+#### Method 2(FAISS Method): 
 Contains the .ipynb file of the implementaion of facebook AI similarity search method and the csv generated using the same method.
 
-## Method 3(Spotify - Approximate Nearest Neighbors Oh Yeah): 
+#### Method 3(Spotify - Approximate Nearest Neighbors Oh Yeah): 
 Contains both the files to run the spotify annoy method which generates the nearest neighbor json file which can be loaded into elasticsearch using bulk API.
 
-## Preprocessing: 
+#### Preprocessing: 
 Contains preprocessing file which is used to extract images to disk from bson.
 
-## Streamlit: 
+#### Streamlit: 
 Contains all the images used in both method 1 and 2 along with csv files and py file.
 
-## Finale: 
+#### Finale: 
 Contains all the sampled images which are used for similarity searches.
 
 ## How to run the similarity searches: -
