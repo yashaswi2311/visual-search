@@ -2,19 +2,25 @@
 
 Folder Information: -
 
-Method 1: - Contains the .ipynb file of 1st method in the assignment and the csv generated using that method.
+## Method 1 : 
+Contains the .ipynb file of 1st method in the assignment and the csv generated using that method.
 
-Method 2(FAISS Method): - Contains the .ipynb file of the implementaion of facebook AI similarity search method and the csv generated using the same method.
+## Method 2(FAISS Method): 
+Contains the .ipynb file of the implementaion of facebook AI similarity search method and the csv generated using the same method.
 
-Method 3(Spotify - Approximate Nearest Neighbors Oh Yeah): - Contains both the files to run the spotify annoy method which generates the nearest neighbor json file which can be loaded into elasticsearch using bulk API.
+## Method 3(Spotify - Approximate Nearest Neighbors Oh Yeah): 
+Contains both the files to run the spotify annoy method which generates the nearest neighbor json file which can be loaded into elasticsearch using bulk API.
 
-Preprocessing: - Contains preprocessing file which is used to extract images to disk from bson.
+## Preprocessing: 
+Contains preprocessing file which is used to extract images to disk from bson.
 
-Streamlit: - Contains all the images used in both method 1 and 2 along with csv files and py file.
+## Streamlit: 
+Contains all the images used in both method 1 and 2 along with csv files and py file.
 
-finale: - Contains all the sampled images which are used for similarity searches.
+## Finale: 
+Contains all the sampled images which are used for similarity searches.
 
-How to run the similarity searches: -
+## How to run the similarity searches: -
 Method 1: - Use the images from 'finale' folder and run the SimilaritySearchMethod1.ipynb file from 'Method 1' folder.
 
 Method 2 - FAISS: - Use the images from 'finale' folder and run the faissmethod.ipynb file from 'Method 2 - FAISS' folder(Perfferably run on Google Colab)
